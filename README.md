@@ -22,7 +22,7 @@
 
 <a href="https://github.com/Rhodvick/RHODVICKEZ-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK RHODVICKEZ-MD" width="150"></a>
 
-  <a href="https://power-session.silvatechinc.my.id/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
+  <a href="https://rhodvickez-md-94ty.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
 
 
 
